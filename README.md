@@ -1,6 +1,9 @@
 # Android-LED-Strip
 An Android app for controlling custom made Wifi enabled LED strips.  More info [here](http://jakebergamin.com/2016/02/08/wifi-led-strip/).
 
+![Screenshot](http://jakebergamin.com/images/android_led_screenshot1.png)
+![Screenshot](http://jakebergamin.com/images/android_led_screenshot2.png)
+
 ## Setup - Android Studio ##
 
 Clone this project (with a command line):
